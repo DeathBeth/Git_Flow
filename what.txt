@@ -1,0 +1,15 @@
+what.
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> 4
+is happening?
+
+help?
+
+<<<<<<< HEAD
+Is this right?
+=======
+Is this right?
+>>>>>>> 4
